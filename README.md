@@ -17,7 +17,7 @@ My background includes over a decade of experience in university enrollment lead
 
 ### 🐍 Python Portfolio: Interactive CLI Tools
 A collection of modular Python scripts focused on logic, user input validation, and data structures.
-* **Operations & Tech Quiz:** An interactive terminal game featuring a dynamic dictionary-based question bank, real-time score tracking, and defensive input validation loops.
+* **Operations & Tech Quiz:** An interactive terminal game featuring a dynamic dictionary based question bank, real time score tracking, and defensive input validation loops.
 * **Word Guessing Game:** A fully functional Hangman script utilizing string case-normalization and live attempt tracking.
 * [View my Python Repository](https://github.com/atafoya1/python_portfolio)
 
