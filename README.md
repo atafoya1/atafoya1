@@ -1,15 +1,17 @@
 # Hi there, I'm Astin 👋
 
-## 💫 About Me
+## 📖 About Me
 I am a data-driven higher education professional with experience in enrollment operations, student success metrics, and CRM management. Currently completing my Master of Science in Data Analytics at Eastern University, I am passionate about leveraging data to streamline workflows and uncover actionable strategic insights.
 
 My background includes over a decade of experience in university enrollment leadership, where I have utilized platforms like Salesforce CRM and Power BI dashboards to optimize daily operations. I am currently expanding my analytical capabilities through hands on programming projects, focusing on statistical analysis, data visualization, and database management. I build practical tools and queries to answer complex operational questions, intentionally keeping my focus on foundational analytics and clear data storytelling.
 
 ## 🛠️ Tech Stack & Tools
 * **Programming & Scripting:** Python, R, SQL
+* **Databases:** PostgreSQL
+* **Generative AI & LLMs:** Prompt Engineering (Gemini, Claude, ChatGPT)
 * **Data Visualization:** Tableau, Power BI
-* **Environments & Platforms:** RStudio, Jupyter Notebooks, Anaconda
-* **Operations & CRM:** Salesforce
+* **Environments & Platforms:** RStudio, Jupyter Notebooks, Anaconda, pgAdmin
+* **Operations & CRM:** Salesforce, Banner, Microsoft Dynamics
 
 ## 🔦 Featured Projects
 
