@@ -15,6 +15,12 @@ My background includes over a decade of experience in university enrollment lead
 
 ## 🔦 Featured Projects
 
+### 📈 Lead Scoring Case Study: Enrollment Conversion Predictor
+A machine learning pipeline built to optimize university admissions workflows by predicting prospective student conversion probabilities.
+* **Predictive Modeling:** Cleaned historical inquiry data, applied one-hot encoding, scaled features, and utilized Recursive Feature Elimination (RFE) in Python to isolate core behavioral drivers.
+* **Operational Impact:** Trained a Logistic Regression model to generate 0–100 lead scores, simulating threshold strategies to hit a 90.2% conversion rate while eliminating 64% of low-intent pipeline volume.
+* [View my Lead Scoring Repository](https://github.com/atafoya1/lead_scoring_case_study)
+
 ### 🐍 Python Portfolio: Interactive CLI Tools
 A collection of modular Python scripts focused on logic, user input validation, and data structures.
 * **Operations & Tech Quiz:** An interactive terminal game featuring a dynamic dictionary based question bank, real time score tracking, and defensive input validation loops.
