@@ -15,6 +15,12 @@ My background includes over a decade of experience in university enrollment lead
 
 ## 🔦 Featured Projects
 
+### 🏥 Healthcare Analytics Portfolio: R & ggplot2 Analysis
+An exploratory data analysis project examining 55,500 patient records to evaluate hospital billing structures and admission distributions.
+* **Data Cleaning & Manipulation:** Processed records, validated data types, and cleaned anomalies in R.
+* **Visualization:** Built visualizations using `ggplot2` to uncover structural patterns and synthetic data distributions.
+* [View my R Repository](https://github.com/atafoya1/r_analytics_portfolio)
+
 ### 📈 Lead Scoring Case Study: Enrollment Conversion Predictor
 A machine learning pipeline built to optimize university admissions workflows by predicting prospective student conversion probabilities.
 * **Predictive Modeling:** Cleaned historical inquiry data, applied one-hot encoding, scaled features, and utilized Recursive Feature Elimination (RFE) in Python to isolate core behavioral drivers.
