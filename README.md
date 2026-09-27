@@ -15,6 +15,13 @@ My background includes over a decade of experience in university enrollment lead
 
 ## 🔦 Featured Projects
 
+🚗 US Used Vehicle Market Dynamics & Pricing Variance: Tableau Portfolio Dashboard
+An interactive, multi tier Tableau dashboard analyzing ~558,000 used vehicle transactions from Kaggle to uncover macro pricing trends and asset-level valuation insights.
+
+* **Dashboard Design & Architecture:** Built a multi tier layout moving from macro time series market trends down to vehicle level scatter plots and brand markups.
+* **Data Engineering & Custom Calculations:** Engineered custom calculated fields (`Clean State`, date parsing, and dynamic conditional tooltips) to handle anomalies and display color coded variance indicators.
+* **View Live Dashboard:** [Tableau Public Dashboard](https://public.tableau.com/views/USUsedVehicleMarketDynamicsPricingVariance/Dashboard1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
+
 ### 🏥 Healthcare Analytics Portfolio: R & ggplot2 Analysis
 An exploratory data analysis project examining 55,500 patient records to evaluate hospital billing structures and admission distributions.
 * **Data Cleaning & Manipulation:** Processed records, validated data types, and cleaned anomalies in R.
